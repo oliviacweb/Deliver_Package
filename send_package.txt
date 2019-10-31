@@ -1,0 +1,28 @@
+1. Send Package
+  1.1 Configure Package
+    1.1.1 Get item
+      1.1.1.1 Locate item
+      1.1.1.2 Walk to item
+      1.1.1.3 Pick up item
+      1.1.1.4 Walk to package staging area
+    1.1.2 Prepare Box
+     1.1.2.1 Get Box
+     1.1.2.2 Unfold Box
+     1.1.2.3 Assemble Box
+     1.1.2.4 Put packing peanuts in box
+    1.1.3 Put item in package
+    1.1.4 tape box shut
+      1.1.4.1 Get tape
+      1.1.4.2 Tear off piece of tape
+      1.1.4.3 place tape on box opening
+    1.1.5 Label Box
+      1.1.5.1 Get Label
+      1.1.5.2 lift label sticker off paper
+      1.1.5.3 place label on Box
+      1.1.5.4 fill out delivery address
+      1.1.5.5 fill out return address
+  1.2 Go To Post Office
+    1.2.1 Pick up package
+    1.2.2 Get car keys
+    1.2.3 Walk to door
+  1.3 At Post Office
